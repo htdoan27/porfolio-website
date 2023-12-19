@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found</title>
+    <script>
+      // Redirect all requests to index.html
+      const url = new URL(window.location.href);
+      url.pathname = '/porfolio-website/index.html';
+      window.location.replace(url);
+    </script>
+  </head>
+  <body>
+    <!-- This page does not exist, redirecting to main page -->
+  </body>
+</html>
