@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/porfolio-website/static/css/main.b6f8ef2f.css",
+    "main.js": "/porfolio-website/static/js/main.6d1cb0d0.js",
+    "static/js/787.18c90614.chunk.js": "/porfolio-website/static/js/787.18c90614.chunk.js",
+    "static/media/proj6.png": "/porfolio-website/static/media/proj6.bbda91ca7f209247913f.png",
+    "static/media/proj5.jpg": "/porfolio-website/static/media/proj5.0648813998893b8c53d0.jpg",
+    "static/media/proj3.webp": "/porfolio-website/static/media/proj3.419d7d3eb4e124126660.webp",
+    "static/media/proj2.jpg": "/porfolio-website/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/proj1.jpg": "/porfolio-website/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "static/media/proj4.webp": "/porfolio-website/static/media/proj4.21aa3100d2e1859f6029.webp",
+    "index.html": "/porfolio-website/index.html",
+    "main.b6f8ef2f.css.map": "/porfolio-website/static/css/main.b6f8ef2f.css.map",
+    "main.6d1cb0d0.js.map": "/porfolio-website/static/js/main.6d1cb0d0.js.map",
+    "787.18c90614.chunk.js.map": "/porfolio-website/static/js/787.18c90614.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f8ef2f.css",
+    "static/js/main.6d1cb0d0.js"
+  ]
+}
